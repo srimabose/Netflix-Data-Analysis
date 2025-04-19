@@ -19,7 +19,7 @@ This project presents an interactive Power BI dashboard built on Netflix viewing
 You can find the dataset used for this analysis [here](https://www.kaggle.com/datasets/shivamb/netflix-shows).
 
 ## 🖼️ Dashboard Preview
-![Netflix Power BI Dashboard](Screenshot.png)
+![Netflix Power BI Dashboard](Screenshot1.png)
 
 ## 🚀 How to Use
 1. Open the `.pbix` file in Power BI Desktop.
